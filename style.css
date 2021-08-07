@@ -1,0 +1,81 @@
+body {
+	text-align: center;
+}
+
+#contact_1 h5 {
+	display: inline;
+}
+
+#Address iframe {
+	width: 100%;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+.my_nav_bar {
+	position: sticky;
+	top: 0;
+	z-index: 99999;
+
+}
+
+.contact_1 {
+	text-align: center;
+}
+
+.Home {
+	background: linear-gradient(#00ffff 0%, #FFFFFF 100%);
+	height: 700px;
+}
+
+.Images {
+	background: linear-gradient(#FFFFFF 0%, #0000FF 100%);
+}
+
+.Address {
+	background: linear-gradient(#0000ff 0%, #FFFFFF 100%);
+	text-align: center;
+}
+
+.Contact {
+	background: linear-gradient(#FFFFFF 0%, #3944bc 100%);
+	text-align: center;
+}
+
+#p {
+	font-size: 100px;
+}
+
+.menu a {
+	text-decoration: none;
+}
+
+.Images #one {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.Images #two {
+    margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.Images #three {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.Images #four {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.Images #five {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.Images #six {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
